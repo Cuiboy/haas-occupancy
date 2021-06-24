@@ -8,7 +8,7 @@ from datetime import datetime
 
 
 def writeDataTest(col):
-    gc = pygsheets.authorize(service_file ='/Users/cuiboy/Desktop/Code/Berkeley/OCTO/haas-occupancy/haas-wifi-occupancy-3a6c045f1b95.json')
+    gc = pygsheets.authorize(service_file ='haas-wifi-occupancy-3a6c045f1b95.json')
     df = pd.DataFrame()
     df[str(datetime.now())] = col
     sh = gc.open('Occupancy Data Test')

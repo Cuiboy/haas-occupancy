@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "haas-wifi-occupancy",
+  "private_key_id": "3a6c045f1b9589cdd951140ba79e1ce4937e8eb9",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQC4IlunyL+VpKW3\ntgpE8dHcrOg8cMaxb2wqD8bO9a2PYadb2qO30YV49O9PLxIhlfc6d1wqV3+uzzk7\nMNwy9jyjiaYsR2dJX7Lw2wE7+yKM9K48MQemAYcFR3lewhGldagSfERhoiEQMuQy\nbGFtmeylH5bP9ARmcQiT8Yi3HrKSBlX7lMqKDFjFzja7cJTi9vgFMPVHhsBS/CEJ\nasVjfN39WIJETeiUCM9RoRUjW+wHu49yUmpifQEkeGnl6lWcGpw1RNt2LzR2/zN1\nVqA9iiOK5060X4gheZMZ9gxYWTbMENLiDZWwR45L1YXSkXrvsfm9ziYvQRXU0199\nGcDS/2/LAgMBAAECggEARSaCDUzSxjwDEC8JREMccSduP+SKefBCSrmKDAcvmv0t\ngM1nVo0U9wvlI3Ol937+TbKtpikeBmRENfpvd6QJudDj2xUlsOSDqvhUSlZR72Wk\nWW6AVNOWBWGGLxPq1JyO9gI9G/1rNU4nbNhO7n4z5P8sAAS/8kjY09aNZVfd8ABW\nDpvu4VfOo5pnb/sLCxzgxOJvYB5vrOy10Mjf9RyenxCZ7eMFYRED3q6iMcCnoV8k\n2nw8VpbSAH/jjuljsomkgI8du7s6nB9xuj2Y/eFikcwPSpIrsl2udY9pbEZc88Dz\nviMxnGItFcjsSddGofZhpMX7i5dRQmSKoxhjl5gH4QKBgQDaRtIFMWHgpmAvgn6d\n88NkT2iMJHMlz7srbTqgiG6eIzS7gj8p2jiEOLEtra1Sdxc1HjOqrNmMFO+K9BGi\nu6y24m6fdbfRwNCjOtz7S/amQZslivuSnOIul8JsY0iM4k6s2XpmBuClrwXuh+O3\nR1+pPehQUiZRa2YTem+X393CjwKBgQDX9Pq3D/PnTKT1Lq8ykxZUU4S3KaxMd477\nten9L00eUjjRjLWMzE2kQvl23t+OL4Fhgmp7x5ROf88PIvkVG8llkjTSayInGO64\nkYV349z13kKfK3SejnAGZ4NPdBbu9OOQLd1fLgsRzXf9R7qy4KUn0WhEGjw1mmt0\nnxIazdCtBQKBgB02azc8s6/ANJFHMrDrBdRv+DsBSdPeqFsYhEcl20AY0B7kQJXW\nWcgAWl4Vp2OpApceUqXd+kOQLbr4DUAtQ+E6DroSpCZTWtjtsNOFCB6aGyx8HE0z\n5+V6dA/Tfcs1InhppsLu2rPx56ZT03sc90WMPoI5bF1rNT8YHMVDtccrAoGAXWfO\nUQOLYQ2bg5ivmlZYIB0HmBlkNqa3p1NlY2bkGitB/BC6La3oHxYAxFNdqigN89ju\nqZ8HHHTXYBqmVWTxVQdJ5YEFApgcGKSIb/SUi5uYgTPQewvslDiNaP4zNSOikafk\nydgmXYrbTSeLLvdPN8uxJ1OZmy2xMH3k3McMbOkCgYBigVfxd+a0K86sxbEaBqwQ\n1HpoVoQXw3Rgn5i1nGfEN2osc6JGGDCB8UKERQzqErbi813DUIYHux1jkdt7gJFT\n8QT1SbSDQnJBrLk3FQ8nT2fqQNd3VerOOKsSaYeHa7IkrStBF8zjddetzNNmY4P+\nZzSiT2aK2MhgzXNXYwgcag==\n-----END PRIVATE KEY-----\n",
+  "client_email": "developer@haas-wifi-occupancy.iam.gserviceaccount.com",
+  "client_id": "101543565304960224312",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/developer%40haas-wifi-occupancy.iam.gserviceaccount.com"
+}
